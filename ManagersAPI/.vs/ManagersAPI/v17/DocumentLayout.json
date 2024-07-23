@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ListOfManagers\\Projects\\ManagersAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\data\\managers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:data\\managers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|d:\\listofmanagers\\projects\\managersapi\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280D4782-B591-438F-82C8-2D225CEE4D10}|ManagersAPI.csproj|solutionrelative:controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:36:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:21:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "managers.json",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\data\\managers.json",
+              "RelativeDocumentMoniker": "data\\managers.json",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\data\\managers.json",
+              "RelativeToolTip": "data\\managers.json",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAowLYBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:36:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:26:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T19:26:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagersController.cs",
+              "ToolTip": "D:\\ListOfManagers\\Projects\\ManagersAPI\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "Controllers\\ManagersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:34:27.506Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.search{
+    position: sticky;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.mat-table{
+    background-color: aliceblue;
+}
+
+.mat-paginator{
+    background-color: #fafafa;
+}
+
+.list-button{
+    background-color: #c8e5ff;
+    padding: 1.5%;
+}

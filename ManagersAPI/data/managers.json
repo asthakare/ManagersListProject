@@ -1,0 +1,442 @@
+[
+  {
+    "managerName": "John Doe",
+    "position": "Senior Manager",
+    "experience": "10 years",
+    "project": "Project Alpha",
+    "employees": [
+      {
+        "name": "Alice Smith",
+        "salary": 60000
+      },
+      {
+        "name": "Bob Johnson",
+        "salary": 58000
+      },
+      {
+        "name": "Charlie Brown",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Jane Roe",
+    "position": "Project Manager",
+    "experience": "8 years",
+    "project": "Project Beta",
+    "employees": [
+      {
+        "name": "David Wilson",
+        "salary": 62000
+      },
+      {
+        "name": "Emma Davis",
+        "salary": 59000
+      },
+      {
+        "name": "Frank Moore",
+        "salary": 60000
+      }
+    ]
+  },
+  {
+    "managerName": "Michael Brown",
+    "position": "Product Manager",
+    "experience": "7 years",
+    "project": "Project Gamma",
+    "employees": [
+      {
+        "name": "Gina Lee",
+        "salary": 63000
+      },
+      {
+        "name": "Hank Miller",
+        "salary": 61000
+      },
+      {
+        "name": "Ivy Clark",
+        "salary": 62000
+      }
+    ]
+  },
+  {
+    "managerName": "Emily White",
+    "position": "Team Lead",
+    "experience": "5 years",
+    "project": "Project Delta",
+    "employees": [
+      {
+        "name": "Jack Harris",
+        "salary": 55000
+      },
+      {
+        "name": "Lily Young",
+        "salary": 54000
+      },
+      {
+        "name": "Mason Scott",
+        "salary": 56000
+      }
+    ]
+  },
+  {
+    "managerName": "Robert Black",
+    "position": "Senior Developer",
+    "experience": "12 years",
+    "project": "Project Epsilon",
+    "employees": [
+      {
+        "name": "Nancy Lewis",
+        "salary": 65000
+      },
+      {
+        "name": "Oscar Turner",
+        "salary": 64000
+      },
+      {
+        "name": "Paula Martinez",
+        "salary": 63000
+      }
+    ]
+  },
+  {
+    "managerName": "Sophia Green",
+    "position": "Marketing Manager",
+    "experience": "9 years",
+    "project": "Project Zeta",
+    "employees": [
+      {
+        "name": "Quinn Adams",
+        "salary": 57000
+      },
+      {
+        "name": "Rita Walker",
+        "salary": 58000
+      },
+      {
+        "name": "Steve Hall",
+        "salary": 56000
+      }
+    ]
+  },
+  {
+    "managerName": "James Grey",
+    "position": "HR Manager",
+    "experience": "6 years",
+    "project": "Project Eta",
+    "employees": [
+      {
+        "name": "Tina Allen",
+        "salary": 59000
+      },
+      {
+        "name": "Ulysses Wright",
+        "salary": 58000
+      },
+      {
+        "name": "Victoria King",
+        "salary": 57000
+      }
+    ]
+  },
+  {
+    "managerName": "Olivia Adams",
+    "position": "Sales Manager",
+    "experience": "11 years",
+    "project": "Project Theta",
+    "employees": [
+      {
+        "name": "Walter Nelson",
+        "salary": 64000
+      },
+      {
+        "name": "Xena Carter",
+        "salary": 62000
+      },
+      {
+        "name": "Yvonne Robinson",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Ethan Young",
+    "position": "Technical Lead",
+    "experience": "8 years",
+    "project": "Project Iota",
+    "employees": [
+      {
+        "name": "Zachary Edwards",
+        "salary": 60000
+      },
+      {
+        "name": "Alyssa Garcia",
+        "salary": 59000
+      },
+      {
+        "name": "Brian Martinez",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Ava Martinez",
+    "position": "Operations Manager",
+    "experience": "7 years",
+    "project": "Project Kappa",
+    "employees": [
+      {
+        "name": "Carlos Gonzalez",
+        "salary": 62000
+      },
+      {
+        "name": "Diana Perez",
+        "salary": 61000
+      },
+      {
+        "name": "Evan Ross",
+        "salary": 63000
+      }
+    ]
+  },
+  {
+    "managerName": "Lucas Harris",
+    "position": "Finance Manager",
+    "experience": "10 years",
+    "project": "Project Lambda",
+    "employees": [
+      {
+        "name": "Fiona Clark",
+        "salary": 64000
+      },
+      {
+        "name": "George Hughes",
+        "salary": 65000
+      },
+      {
+        "name": "Hannah Morgan",
+        "salary": 63000
+      }
+    ]
+  },
+  {
+    "managerName": "John Doe",
+    "position": "Senior Manager",
+    "experience": "10 years",
+    "project": "Project Alpha",
+    "employees": [
+      {
+        "name": "Alice Smith",
+        "salary": 60000
+      },
+      {
+        "name": "Bob Johnson",
+        "salary": 58000
+      },
+      {
+        "name": "Charlie Brown",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Jane Roe",
+    "position": "Project Manager",
+    "experience": "8 years",
+    "project": "Project Beta",
+    "employees": [
+      {
+        "name": "David Wilson",
+        "salary": 62000
+      },
+      {
+        "name": "Emma Davis",
+        "salary": 59000
+      },
+      {
+        "name": "Frank Moore",
+        "salary": 60000
+      }
+    ]
+  },
+  {
+    "managerName": "Michael Brown",
+    "position": "Product Manager",
+    "experience": "7 years",
+    "project": "Project Gamma",
+    "employees": [
+      {
+        "name": "Gina Lee",
+        "salary": 63000
+      },
+      {
+        "name": "Hank Miller",
+        "salary": 61000
+      },
+      {
+        "name": "Ivy Clark",
+        "salary": 62000
+      }
+    ]
+  },
+  {
+    "managerName": "Emily White",
+    "position": "Team Lead",
+    "experience": "5 years",
+    "project": "Project Delta",
+    "employees": [
+      {
+        "name": "Jack Harris",
+        "salary": 55000
+      },
+      {
+        "name": "Lily Young",
+        "salary": 54000
+      },
+      {
+        "name": "Mason Scott",
+        "salary": 56000
+      }
+    ]
+  },
+  {
+    "managerName": "Robert Black",
+    "position": "Senior Developer",
+    "experience": "12 years",
+    "project": "Project Epsilon",
+    "employees": [
+      {
+        "name": "Nancy Lewis",
+        "salary": 65000
+      },
+      {
+        "name": "Oscar Turner",
+        "salary": 64000
+      },
+      {
+        "name": "Paula Martinez",
+        "salary": 63000
+      }
+    ]
+  },
+  {
+    "managerName": "Sophia Green",
+    "position": "Marketing Manager",
+    "experience": "9 years",
+    "project": "Project Zeta",
+    "employees": [
+      {
+        "name": "Quinn Adams",
+        "salary": 57000
+      },
+      {
+        "name": "Rita Walker",
+        "salary": 58000
+      },
+      {
+        "name": "Steve Hall",
+        "salary": 56000
+      }
+    ]
+  },
+  {
+    "managerName": "James Grey",
+    "position": "HR Manager",
+    "experience": "6 years",
+    "project": "Project Eta",
+    "employees": [
+      {
+        "name": "Tina Allen",
+        "salary": 59000
+      },
+      {
+        "name": "Ulysses Wright",
+        "salary": 58000
+      },
+      {
+        "name": "Victoria King",
+        "salary": 57000
+      }
+    ]
+  },
+  {
+    "managerName": "Olivia Adams",
+    "position": "Sales Manager",
+    "experience": "11 years",
+    "project": "Project Theta",
+    "employees": [
+      {
+        "name": "Walter Nelson",
+        "salary": 64000
+      },
+      {
+        "name": "Xena Carter",
+        "salary": 62000
+      },
+      {
+        "name": "Yvonne Robinson",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Ethan Young",
+    "position": "Technical Lead",
+    "experience": "8 years",
+    "project": "Project Iota",
+    "employees": [
+      {
+        "name": "Zachary Edwards",
+        "salary": 60000
+      },
+      {
+        "name": "Alyssa Garcia",
+        "salary": 59000
+      },
+      {
+        "name": "Brian Martinez",
+        "salary": 61000
+      }
+    ]
+  },
+  {
+    "managerName": "Ava Martinez",
+    "position": "Operations Manager",
+    "experience": "7 years",
+    "project": "Project Kappa",
+    "employees": [
+      {
+        "name": "Carlos Gonzalez",
+        "salary": 62000
+      },
+      {
+        "name": "Diana Perez",
+        "salary": 61000
+      },
+      {
+        "name": "Evan Ross",
+        "salary": 63000
+      }
+    ]
+  },
+  {
+    "managerName": "Lucas Harris",
+    "position": "Finance Manager",
+    "experience": "10 years",
+    "project": "Project Lambda",
+    "employees": [
+      {
+        "name": "Fiona Clark",
+        "salary": 64000
+      },
+      {
+        "name": "George Hughes",
+        "salary": 65000
+      },
+      {
+        "name": "Hannah Morgan",
+        "salary": 63000
+      }
+    ]
+  }
+]
